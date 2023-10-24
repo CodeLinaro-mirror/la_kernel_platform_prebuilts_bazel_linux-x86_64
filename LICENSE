@@ -1618,7 +1618,7 @@ Licenses of all components included in this binary:
    
 
 ===== third_party/java/jacoco/LICENSE =====
-Copyright © 2009, 2023 Mountainminds GmbH & Co. KG and Contributors
+Copyright Â© 2009, 2023 Mountainminds GmbH & Co. KG and Contributors
 
 The JaCoCo Java Code Coverage Library and all included documentation is made available by Mountainminds GmbH & Co. KG, Munich. Except indicated below, the Content is provided to you under the terms and conditions of the Eclipse Public License Version 2.0 ("EPL"). A copy of the EPL is provided with this Content and is also available at https://www.eclipse.org/legal/epl-2.0/.
 
@@ -1859,7 +1859,7 @@ Copyright 2011 Mike Samuel et al
       defend, and hold each Contributor harmless for any liability
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
-JaCoCo 0.8.9.202303300400Copyright © 2009, 2023 Mountainminds GmbH & Co. KG and Contributors
+JaCoCo 0.8.9.202303300400Copyright Â© 2009, 2023 Mountainminds GmbH & Co. KG and Contributors
 
 
 ===== third_party/java/javapoet/LICENSE =====
@@ -3304,6 +3304,3 @@ DEALINGS IN THE SOFTWARE.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
-
-
